@@ -25,7 +25,7 @@ export const AboutSection = () => {
                                 Entre em contato
                             </a>
 
-                            <a href="/curriculo-gabriel-canto.pdf" target="__blank" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
+                            <a href="/Currículo - Gabriel Artur 11-2025.pdf" target="__blank" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
                                 Baixar CV
                             </a>
                         </div>
